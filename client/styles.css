@@ -1,0 +1,14 @@
+button{
+    margin: 0 15px;
+}
+body{
+    padding: 15px;
+}
+ul li{
+    list-style-type: none;
+}
+#modal{
+    position: fixed;
+    top: 75px;
+    left: 75px;
+}
